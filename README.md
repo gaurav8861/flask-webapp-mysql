@@ -1,9 +1,9 @@
 # flask-webapp-mysql
 
-To run : 
-python3 -m flask run
+To run : <br>
+python3 -m flask run <br>
 
-Required: 
-python3 
-flask 
-pip
+Required: <br>
+python3 <br>
+flask <br>
+pip<br>
