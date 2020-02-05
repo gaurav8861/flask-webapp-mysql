@@ -4,6 +4,7 @@ To run : <br>
 python3 -m flask run <br>
 
 Required: <br>
+Mysql <br>
 python3 <br>
 flask <br>
 pip<br>
